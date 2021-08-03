@@ -47,7 +47,7 @@ Conversion notes:
    </td>
    <td>sdfsdf
    </td>
-   <td><a href="www.thebote.de">sfdsdfsf</a>
+   <td><a href="http://www.thebote.de">sfdsdfsf</a>
    </td>
   </tr>
   <tr>
