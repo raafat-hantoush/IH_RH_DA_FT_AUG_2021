@@ -23,15 +23,15 @@ Now let's practice the collaboration part.
 
 ### Pair Programming exercise
 
-Pair yourself with a classmate. Send the link to your repository on GitHub to your pair via Slack. Now each of you should perform the following set of actions:
+Pair yourself with a classmate. Send the link to your repository on GitHub to your pair. Choose which one of your repositories will be the central repository that you both will collaborate on. That means ONLY your repository (or your pair's repository) will be the central repository for both of you. 
 
-1. Fork the classmate's repository.
-2. Clone it so you have it locally and you can make changes.
-3. Create a new branch named `classmate`.
-4. Create a new file with your name (ex. `maya.txt`) and finish the following sentence _I enrolled Ironhack's Data Analytics bootcamp because..._. When you are done, save the changes.
-5. Add the changes to git.
-6. Commit and push changes. Now, all the changes should be on your GitHub inside the forked repository.
-7. Create a pull request to make changes appear in the original repository.
-8. Merge the branch your classmate created and now everyone's repos should have the original file (`about.txt`) as well as the new one with your classmate's name.
+Now each of you should perform the following set of actions: ( Here we assume that YOUR repository is the central repository that you both will collaborate on)
+("You" means the task is for you, "Your pair" means the task is for your pair).
+1. (YOU) Give access to your pair (with read/write permissions) to be able to collaborate on your repository.
+2. (Your Pair) Clone the central repository so you have it locally and you can make changes.
+3. (BOTH) Create a new file with your name (ex. `maya.txt`) and finish the following sentence _I enrolled Ironhack's Data Analytics bootcamp because..._. When you are done, save the changes.
+4. (BOTH) Update the file "about.txt". first delete its old contents and  each one of you will add small paragraph about his contribution to this project. When you are done, save the changes.
+5. Add the changes to git. (Make sure that you solve any conflict manually if it appears).
+6. Commit and push changes. Now, all the changes should be on the central repository.
 
 We hope you enjoyed this activity and learned something new about your classmates! :heart:
