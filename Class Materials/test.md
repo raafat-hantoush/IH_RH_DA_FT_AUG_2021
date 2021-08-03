@@ -1,9 +1,7 @@
-<!-- Output copied to clipboard! -->
-
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.228 seconds.
+Conversion time: 0.243 seconds.
 
 
 Using this Markdown file:
@@ -16,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Tue Aug 03 2021 08:12:07 GMT-0700 (PDT)
+* Tue Aug 03 2021 08:14:28 GMT-0700 (PDT)
 * Source doc: Untitled document
 * Tables are currently converted to HTML tables.
 ----->
@@ -29,7 +27,7 @@ Conversion notes:
 
 <table>
   <tr>
-   <td>
+   <td>dhssdfsdfgsd
    </td>
    <td>
    </td>
@@ -41,27 +39,27 @@ Conversion notes:
    </td>
   </tr>
   <tr>
-   <td>
+   <td>sdfs
    </td>
-   <td>
+   <td>sdfsf
    </td>
-   <td>
+   <td>sdfsf
    </td>
-   <td>
+   <td>sdfsdf
    </td>
-   <td>
+   <td><a href="www.thebote.de">sfdsdfsf</a>
    </td>
   </tr>
   <tr>
    <td>
    </td>
-   <td>
+   <td>sfsdf
    </td>
    <td>
    </td>
-   <td>
+   <td>sdsf
    </td>
-   <td>
+   <td>sd
    </td>
   </tr>
 </table>
