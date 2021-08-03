@@ -11,8 +11,6 @@ Being able to use both, git and GitHub, is an important skill every software/dat
 
 Now let's practice the collaboration part with Branching!.
 
-### Pair Programming exercise
-
 Pair yourself with a classmate. Send the link to your repository on GitHub to your pair via Slack. Now each of you should perform the following set of actions:
 
 1. Fork the classmate's repository.
