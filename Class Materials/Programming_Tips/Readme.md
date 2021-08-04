@@ -9,3 +9,4 @@
 + https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/
 + http://www.agoogleaday.com/
 + https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/
++ https://www.wikihow.com/Write-Pseudocode
