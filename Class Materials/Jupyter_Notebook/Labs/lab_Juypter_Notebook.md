@@ -26,6 +26,7 @@ In the notebook that you created, you will introduce someone and her/his holiday
 ### Bonus 
 + create an navigable index at the top of your jupyter notebook  
 + Add titles to all sections you have created, and then create hyperlinks from the elements of the index to their corresponding section title.
++ using Jupyter Notebook Slides, try to present your solution in the slides format.
 
 ## Deliverables
 notebook (.ipynb file) with your responses named as Jupyterlab.ipynb
