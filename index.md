@@ -42,7 +42,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/git-cheat-sheet-education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/%5BCheat%20Sheet%5D%20Git_Cheat_Sheet_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
    </td>
    <td>
    </td>
@@ -54,7 +54,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/links.md">[Extra] Git Extra Resources</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Readme.md">[Extra] Git Extra Resources</a>
    </td>
    <td>
    </td>
@@ -138,4 +138,3 @@
    </td>
   </tr>
 </table>
-
