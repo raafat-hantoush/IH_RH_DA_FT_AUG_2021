@@ -18,7 +18,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1_BUAEQIKz8bD-xK6sORNSf-D5mcQYoY41GhKSyxDLtQ/edit?usp=sharing">[Presentation] Git Concepts</a>
+   <td><a href="https://docs.google.com/presentation/d/1emti-9IkUK-fZUG3GoMyJ4mMXoMJG5zc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git Concepts</a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/git-cheat-sheet-education.pdf">Cheat Sheet] Git Cheat Sheet</a>
    </td>
@@ -30,7 +30,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Presentation_Git_Basics_Commands.pptx">[Presentation] Git Commands</a>
+   <td><a href="https://docs.google.com/presentation/d/12sATaHIireWiTPSmB46nHkrmyTbp7tOx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git Commands</a>
    </td>
    <td>
    </td>
@@ -138,5 +138,4 @@
    </td>
   </tr>
 </table>
-
 
