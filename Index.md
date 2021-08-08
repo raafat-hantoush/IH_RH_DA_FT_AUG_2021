@@ -2,19 +2,19 @@
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week1</strong>
+   <td colspan="5" ><strong>Week 1</strong>
    </td>
   </tr>
   <tr>
-   <td><strong>Day1</strong>
+   <td><strong>Day 1</strong>
    </td>
-   <td><strong>Day2</strong>
+   <td><strong>Day 2</strong>
    </td>
-   <td><strong>Day3</strong>
+   <td><strong>Day 3</strong>
    </td>
-   <td><strong>Day4</strong>
+   <td><strong>Day 4</strong>
    </td>
-   <td><strong>Day5</strong>
+   <td><strong>Day 5</strong>
    </td>
   </tr>
   <tr>
