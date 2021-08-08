@@ -30,19 +30,19 @@
   <tr>
    <td>Git Commands
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Presentation_Git_Basics_Commands.pptx">https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Presentation_Git_Basics_Commands.pptx</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Presentation_Git_Basics_Commands.pptx">Link</a>
    </td>
   </tr>
   <tr>
    <td>Git Extra Resources
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/links.md">https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/links.md</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/links.md">Link</a>
    </td>
   </tr>
   <tr>
    <td>Jupyter Notebook Extra Resources
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/Readme.md">https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/Readme.md</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/Readme.md">Link</a>
    </td>
   </tr>
 </table>
