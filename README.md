@@ -2,8 +2,6 @@
 
 ## Index of Contents
 
-
-
 <table>
   <tr>
    <td colspan="5" ><strong>Week 1</strong>
