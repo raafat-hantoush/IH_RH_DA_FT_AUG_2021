@@ -2,6 +2,29 @@
 
 ## Index of Contents
 
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 1.09 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Mon Aug 09 2021 12:30:40 GMT-0700 (PDT)
+* Source doc: Week 1
+* Tables are currently converted to HTML tables.
+----->
+
+
+
 <table>
   <tr>
    <td colspan="5" ><strong>Week 1</strong>
@@ -21,7 +44,6 @@
   </tr>
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/MAC%20Command%20Line%20CheatSheet.pdf">[Cheat Sheet] Mac Command</a>
-     
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/Windows%20Command%20Prompt%20Cheatsheet.pdf">[Cheat Sheet] Windows Command Line</a>
    </td>
@@ -109,7 +131,7 @@
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/markdown-cheat-sheet.md">[Cheat sheet] Markdown Cheat Sheet</a>
    </td>
-   <td>[Lab] Lab | Python Sets, Tuples, Dicts
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Lab | Python Sets, Tuples, Dicts</a>
    </td>
    <td>
    </td>
@@ -167,4 +189,6 @@
    </td>
   </tr>
 </table>
+
+
 
