@@ -2,8 +2,6 @@
 
 ## Index of Contents
 
-
-
 <table>
   <tr>
    <td colspan="5" ><strong>Week 1</strong>
@@ -23,6 +21,7 @@
   </tr>
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/MAC%20Command%20Line%20CheatSheet.pdf">[Cheat Sheet] Mac Command</a>
+     
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/Windows%20Command%20Prompt%20Cheatsheet.pdf">[Cheat Sheet] Windows Command Line</a>
    </td>
