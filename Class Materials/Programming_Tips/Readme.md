@@ -10,3 +10,4 @@
 + http://www.agoogleaday.com/
 + https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/
 + https://www.wikihow.com/Write-Pseudocode
++ https://insights.stackoverflow.com/survey/2020#most-popular-technologies
