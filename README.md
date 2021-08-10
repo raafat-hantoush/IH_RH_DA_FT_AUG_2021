@@ -24,6 +24,28 @@ Conversion notes:
 ----->
 
 
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.715 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Tue Aug 10 2021 14:18:52 GMT-0700 (PDT)
+* Source doc: Week 1
+* Tables are currently converted to HTML tables.
+----->
+
+
 
 <table>
   <tr>
@@ -49,7 +71,7 @@ Conversion notes:
    </td>
    <td><a href="https://docs.google.com/presentation/d/1egDiBylb77aqrLthgC3NaJ1YiJ6BZw1W/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1NWZOIxhpjZS-VfBY2dPzo3JTr8izgQpR/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
+   <td><a href="https://docs.google.com/presentation/d/17QFXLTEBHB1B3ytR-fjgEeF-W75tr9a2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1i0KOQG3RlQze9e7WUY_1rrc_mpsbyech/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Data Analysis</a>
    </td>
@@ -61,7 +83,7 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/%5BCheat%20Sheet%5D%20Conda_Cheatsheet.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1sC-IOCVcIfMnFAbyPzHwjy_VDivEOuC2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Practices</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/17r2eSMW6qddFppf-GjuG-X4ldtZMs1gO/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Process</a>
    </td>
@@ -73,7 +95,7 @@ Conversion notes:
    </td>
    <td><a href="https://docs.google.com/presentation/d/1TlfVND7l8lLvJeW1TubloDG9P_Z0t5T0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Object Types</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Programming_Tips/Readme.md">[Extra] Programming Useful Resources</a>
+   <td><a href="https://docs.google.com/presentation/d/1NWZOIxhpjZS-VfBY2dPzo3JTr8izgQpR/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Analysis_Intro/Readme.md">[Extra] Data Analysis</a>
    </td>
@@ -85,7 +107,7 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Object_Types.ipynb">[Notebook] Python Object Types</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1ELYBx8TnVT2ISwqiWwbVWbdpxohL6634/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
+   <td><a href="https://docs.google.com/presentation/d/1sC-IOCVcIfMnFAbyPzHwjy_VDivEOuC2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Practices</a>
    </td>
    <td>[Activity] Data Analysis
    </td>
@@ -95,9 +117,9 @@ Conversion notes:
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/%5BCheat%20Sheet%5D%20Git_Cheat_Sheet_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/17QFXLTEBHB1B3ytR-fjgEeF-W75tr9a2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/Activities/Conda_Activity_environments.md">[Activity] Conda Environment</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Programming_Tips/Readme.md">[Extra] Programming Useful Resources</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Duu10NP6eHDuo23cIYd4jU4MZVDbe0WY/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python, Error Handling</a>
    </td>
@@ -107,9 +129,9 @@ Conversion notes:
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Readme.md">[Extra] Git Extra Resources</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Lab | Python Sets, Tuples, Dicts</a>
    </td>
-   <td>[Lab] Lab | Python Strings
+   <td><a href="https://docs.google.com/presentation/d/1ELYBx8TnVT2ISwqiWwbVWbdpxohL6634/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Error_Handling_Structure.ipynb">[Notebook] Python, Error Handling</a>
    </td>
@@ -119,9 +141,9 @@ Conversion notes:
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1QxThJeuCdR8fd34tQ3JHCpWb2pOOsfrm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/Activities/Conda_Activity_environments.md">[Activity] Conda Environment</a>
+   <td>
    </td>
-   <td>[Lab] Lab | Prework Review
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
    </td>
    <td>[Lab] Lab | Python Error Handling
    </td>
@@ -131,9 +153,9 @@ Conversion notes:
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/markdown-cheat-sheet.md">[Cheat sheet] Markdown Cheat Sheet</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Lab | Python Sets, Tuples, Dicts</a>
-   </td>
    <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Lab | Python Strings</a>
    </td>
    <td>
    </td>
@@ -145,7 +167,7 @@ Conversion notes:
    </td>
    <td>
    </td>
-   <td>
+   <td>[Lab] Lab | Prework Review
    </td>
    <td>
    </td>
@@ -189,6 +211,5 @@ Conversion notes:
    </td>
   </tr>
 </table>
-
 
 
