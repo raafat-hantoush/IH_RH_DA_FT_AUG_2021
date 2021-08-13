@@ -112,6 +112,28 @@ Conversion notes:
 ----->
 
 
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.526 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Fri Aug 13 2021 05:00:52 GMT-0700 (PDT)
+* Source doc: Week 1
+* Tables are currently converted to HTML tables.
+----->
+
+
 
 <table>
   <tr>
@@ -189,7 +211,7 @@ Conversion notes:
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Duu10NP6eHDuo23cIYd4jU4MZVDbe0WY/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python, Error Handling</a>
    </td>
-   <td>[Lab] Lab | Python Lists Comprehension
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Lists%20Comprehensions/Lab_Python_List_Comprehension.ipynb">[Lab] Lab | Python Lists Comprehension</a>
    </td>
   </tr>
   <tr>
