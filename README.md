@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.91 seconds.
+Conversion time: 0.769 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Sun Aug 15 2021 15:08:33 GMT-0700 (PDT)
+* Sun Aug 15 2021 15:09:31 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -134,30 +134,6 @@ Windowing, Categoricals
   </tr>
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Labs/100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
    </td>
    <td>
    </td>
@@ -336,4 +312,3 @@ Windowing, Categoricals
    </td>
   </tr>
 </table>
-
