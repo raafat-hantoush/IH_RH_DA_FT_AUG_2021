@@ -12,13 +12,11 @@ The steps to follow are:
 - Clean the data: a quick glimpse at file1 reveals that there are some empty cells, some weird entries (ex: look at column IC5). Gender encoding will need some fixing and probably we'll find more obstacles in the way!
 - Explore: here we'll want to answer questions like - how many donors do we have (by gender, by state...) and what's the distribution of their donations for each one of the sub-groups we can find? Are there noticeable differences we can find? We'll try and visualize everything and allow ourselves to be "surprised" by the data beyond the questions we can come up with.
 - Process: Here we'll start looking at what model we want to apply, and we might need to change how some columns are expressed. For example, the "state" and "gender" columns are not numbers, pretty difficult to put them into mathematical equations, right? We'll have to fix that.
-
-### Optional
+###### Optional
 - Apply model: we will create a model to predict the donation each person sends.
 - Validate: we will know if our model is accurate by checking the predictions against a little subset of the data that we'll have previously left out.
 
 The data is provided in multiple files namely:
-
 file1.xlsx
 file2.xlsx
 file3.xlsx
