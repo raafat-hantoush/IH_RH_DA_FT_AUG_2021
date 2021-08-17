@@ -12,9 +12,9 @@ You are working as an analyst for an auto insurance company. The company has col
 
 Based on the analysis, take targeted actions to increase profitable customer response, retention, and growth.
 
-## Tasks
+## Activities
 
-Refer to the `Activities.md` file where you will find guidelines for activities 1 and 2.
+Refer to the `Activities.md` file where you will find guidelines for some of the activities that you want to do.
 
 ## Data
 
