@@ -11,7 +11,7 @@ Here are some of the tasks you need to perform:
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
 - Optional:
-- Replacing null values – Replace missing values with means of the column (for numerical columns)
+  - Replacing null values – Replace missing values with means of the column (for numerical columns)
 
 ### Activity 2
 
