@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.073 seconds.
+Conversion time: 0.927 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Sun Aug 15 2021 23:22:51 GMT-0700 (PDT)
+* Mon Aug 16 2021 23:31:47 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -99,7 +99,7 @@ Windowing, Categoricals
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
    </td>
-   <td>[Lab] Customer Analysis Case Study
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study">[Lab] Customer Analysis Case Study</a>
    </td>
    <td>[Lab] Customer Analysis
    </td>
