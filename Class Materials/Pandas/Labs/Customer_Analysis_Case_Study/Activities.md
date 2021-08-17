@@ -10,6 +10,7 @@ Here are some of the tasks you need to perform:
 - Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of complaints )
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
+- Optional:
 - Replacing null values – Replace missing values with means of the column (for numerical columns)
 
 ### Activity 2
