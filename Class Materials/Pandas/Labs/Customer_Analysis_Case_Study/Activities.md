@@ -16,4 +16,3 @@ Here are some of the tasks you need to perform:
 
 - Bucketing the data - Write a function to replace column "State" to different zones. California as West Region, Oregon as North West, and Washington as East, and Arizona and Nevada as Central
 - Standardizing the data – Use string functions to standardize the text data (lower case)
-- Use the lookup table to add columns sales channel and vehicle size to the original data
