@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.927 seconds.
+Conversion time: 0.764 seconds.
 
 
 Using this Markdown file:
@@ -14,13 +14,28 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Mon Aug 16 2021 23:31:47 GMT-0700 (PDT)
+* Tue Aug 17 2021 23:37:22 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
 
 
 **Data Analysis Bootcamp - Berlin**
+
+**Today`s Learning Objectives:**
+
+
+
+* Dataframe filtering
+* apply functions on Data Frames
+* using map function
+* using Lambda functions
+* dealing with missing values
+* Working with Categorical variables
+* Concatenating
+* working with DateTime using Pandas
+* Grouping using Pandas
+* Correlation Matrix
 
 **Index of Contents**
 
@@ -101,7 +116,7 @@ Windowing, Categoricals
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study">[Lab] Customer Analysis Case Study</a>
    </td>
-   <td>[Lab] Customer Analysis
+   <td>[Activity] Grouping, Cleaning using Pandas Health Care For All Case Study 
    </td>
    <td>[Lab] EDA
    </td>
@@ -113,7 +128,7 @@ Windowing, Categoricals
    </td>
    <td>
    </td>
-   <td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] Customer Analysis</a>
    </td>
    <td>
    </td>
