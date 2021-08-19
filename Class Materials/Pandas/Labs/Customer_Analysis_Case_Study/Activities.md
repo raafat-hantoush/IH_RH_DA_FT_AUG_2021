@@ -31,6 +31,6 @@ Here are some of the tasks you need to perform:
 - Show a plot of the response rate by the sales channel.
 - Show a plot of the response rate by the total claim amount.
 - Show a plot of the response rate by income.
-- Don't Limit your creativity!  plot Any interesting findings/insights that describe some interesting facts about your data set and its variables. Use the relevant plotting when you feel it is needed.
+- Don't limit your creativity!  plot any interesting findings/insights that describe some interesting facts about your data set and its variables. Use the relevant plotting when you feel it is needed.
 - Plot the Correlation Heatmap.
 - Clean your notebook and make it a readible and presentable with a good documentation that summarizes the Data Cleaning, Exploration(including plots) Steps that you have performed.
