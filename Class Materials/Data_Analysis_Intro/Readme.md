@@ -8,3 +8,4 @@
 + https://www.northeastern.edu/graduate/blog/data-analysis-project-lifecycle/
 + https://www.northeastern.edu/graduate/blog/what-does-a-data-analyst-do/
 + https://www.scnsoft.com/case-studies/direct-sales-force-crm-for-a-us-market-leader-in-cancer-diagnostics
++ https://developer.here.com/documentation/get-started/dev_guide/shared_content/topics/olp/concepts/pipelines.html
