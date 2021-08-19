@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.764 seconds.
+Conversion time: 1.389 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Tue Aug 17 2021 23:37:22 GMT-0700 (PDT)
+* Wed Aug 18 2021 23:49:30 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -22,7 +22,20 @@ Conversion notes:
 
 **Data Analysis Bootcamp - Berlin**
 
-**Today`s Learning Objectives:**
+**Week 2 | Day 4 `s Learning Objectives:**
+
+
+
+* Organizing data transformations into a pipeline.
+* Using Matplotlib and Seaborn
+* Plotting types 
+    * Scatter plots
+    * Box plots
+    * Bar plots
+    * Histograms
+* Descriptive Statistics Measures
+
+**Week 2 | Day3 `s Learning Objectives:**
 
 
 
@@ -80,7 +93,7 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Descriptive_Statistics_Structure.ipynb">[Notebook] Basic Statistical Concepts</a>
    </td>
-   <td>[Notebook] EDA with plotting
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn-Stucture.ipynb">[Notebook] EDA with plotting</a>
    </td>
    <td>[Notebook]
 <p>
@@ -118,7 +131,7 @@ Windowing, Categoricals
    </td>
    <td>[Activity] Grouping, Cleaning using Pandas Health Care For All Case Study 
    </td>
-   <td>[Lab] EDA
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA</a>
    </td>
    <td>Kahoot*
    </td>
