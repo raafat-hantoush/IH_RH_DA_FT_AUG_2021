@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.62 seconds.
+Conversion time: 1.145 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Fri Aug 20 2021 10:45:54 GMT-0700 (PDT)
+* Fri Aug 20 2021 10:50:36 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -22,50 +22,78 @@ Conversion notes:
 
 **Data Analysis Bootcamp - Berlin**
 
-**Week 2 | Day 5 `s Learning Objectives:**
-
-
-
-* Recap
-* Sampling
-* Practicing Group By
-* Kahoot*
-* Presentation skills
-
-**Week 2 | Day 4 `s Learning Objectives:**
-
-
-
-* Organizing data transformations into a pipeline.
-* Using Matplotlib and Seaborn
-* Plotting types 
-    * Scatter plots
-    * Box plots
-    * Bar plots
-    * Histograms
-* Descriptive Statistics Measures
-
-**Week 2 | Day3 `s Learning Objectives:**
-
-
-
-* Dataframe filtering
-* apply functions on Data Frames
-* using map function
-* using Lambda functions
-* dealing with missing values
-* Working with Categorical variables
-* Concatenating
-* working with DateTime using Pandas
-* Grouping using Pandas
-* Correlation Matrix
-
 **Index of Contents**
 
 
 <table>
   <tr>
    <td colspan="5" ><strong>Week 2</strong>
+<p>
+<strong>Week 2 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Recap
+
+<li>Sampling
+
+<li>Practicing Group By
+
+<li>Kahoot*
+
+<li>Presentation skills
+
+<p>
+<strong>Week 2 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Organizing data transformations into a pipeline.
+
+<li>Using Matplotlib and Seaborn
+
+<li>Plotting types  
+<ul>
+ 
+<li>Scatter plots
+ 
+<li>Box plots
+ 
+<li>Bar plots
+ 
+<li>Histograms
+</li> 
+</ul>
+
+<li>Descriptive Statistics Measures
+
+<p>
+<strong>Week 2 | Day3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Dataframe filtering
+
+<li>apply functions on Data Frames
+
+<li>using map function
+
+<li>using Lambda functions
+
+<li>dealing with missing values
+
+<li>Working with Categorical variables
+
+<li>Concatenating
+
+<li>working with DateTime using Pandas
+
+<li>Grouping using Pandas
+
+<li>Correlation Matrix
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -78,6 +106,18 @@ Conversion notes:
    <td><strong>Day 4</strong>
    </td>
    <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
    </td>
   </tr>
   <tr>
