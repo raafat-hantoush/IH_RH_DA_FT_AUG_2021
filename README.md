@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.923 seconds.
+Conversion time: 1.62 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Fri Aug 20 2021 05:01:48 GMT-0700 (PDT)
+* Fri Aug 20 2021 10:45:54 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -119,7 +119,7 @@ Windowing, Categoricals
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1aGGsukEE5Suc-OphgM2RcupVdUpwYruz6qK12_f3Azs/edit?usp=sharing">[Weekly Recap]</a>
+   <td><a href="https://docs.google.com/presentation/d/1xltS6h0UFwZ1iVOTI80kxhmczEe2H9EP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Weekly Recap]</a>
    </td>
   </tr>
   <tr>
