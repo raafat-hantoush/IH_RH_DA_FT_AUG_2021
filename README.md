@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.241 seconds.
+Conversion time: 1.104 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Fri Aug 20 2021 10:53:50 GMT-0700 (PDT)
+* Fri Aug 20 2021 10:54:39 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -106,18 +106,6 @@ Conversion notes:
    <td><strong>Day 4</strong>
    </td>
    <td><strong>Day 5</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
   <tr>
