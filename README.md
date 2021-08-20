@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.389 seconds.
+Conversion time: 1.294 seconds.
 
 
 Using this Markdown file:
@@ -14,13 +14,23 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Wed Aug 18 2021 23:49:30 GMT-0700 (PDT)
+* Fri Aug 20 2021 00:11:35 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
 
 
 **Data Analysis Bootcamp - Berlin**
+
+**Week 2 | Day 5 `s Learning Objectives:**
+
+
+
+* Recap
+* Sampling
+* Practicing Group By
+* Kahoot*
+* Presentation skills
 
 **Week 2 | Day 4 `s Learning Objectives:**
 
@@ -340,3 +350,4 @@ Windowing, Categoricals
    </td>
   </tr>
 </table>
+
