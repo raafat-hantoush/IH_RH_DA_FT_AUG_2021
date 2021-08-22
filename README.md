@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.086 seconds.
+Conversion time: 1.664 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Sun Aug 22 2021 14:55:53 GMT-0700 (PDT)
+* Sun Aug 22 2021 15:59:31 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -62,7 +62,7 @@ Conversion notes:
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Sql Sub Queries</a>
+<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">SQL Sub Queries</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1h16mxSUulN9VWEfqz0VEIXSseN7SvY5a/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Stored Procedures</a>
    </td>
@@ -76,7 +76,7 @@ Conversion notes:
    </td>
    <td>[Activity ERD]
    </td>
-   <td>[Lab] Lab | Sub Queries
+   <td>[Lab] Lab | SQL Sub Queries
    </td>
    <td><a href="https://docs.google.com/presentation/d/1JEC77rHggiED7i3qb_U1XOXhvaj4gaj4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Select Case Statement</a>
    </td>
