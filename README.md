@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.664 seconds.
+Conversion time: 1.112 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Sun Aug 22 2021 15:59:31 GMT-0700 (PDT)
+* Mon Aug 23 2021 13:57:08 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -29,12 +29,22 @@ Conversion notes:
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
 <p>
+<strong>Week 3 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>ERD
+
+<li>Joins
+
+<p>
 <strong>Week 3 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
 <li>Relational Databases
 
 <li>SQL Queries.
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -88,7 +98,7 @@ Connect Python into MySQL
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
-   <td>[Lab] Lab | Sql Join
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Lab | Sql Join two tables</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
@@ -102,7 +112,7 @@ Connect Python into MySQL
   <tr>
    <td>
    </td>
-   <td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] Lab | Sql Join multiple tables</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
@@ -490,3 +500,4 @@ Connect Python into MySQL
    </td>
   </tr>
 </table>
+
