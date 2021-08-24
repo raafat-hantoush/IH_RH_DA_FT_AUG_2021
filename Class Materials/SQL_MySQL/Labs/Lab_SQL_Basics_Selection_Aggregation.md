@@ -77,7 +77,7 @@ What is the `loan_id` of the highest payment received in the `loan` table?
 Expected result:
 
 ```shell
-6312
+6415
 ```
 
 ### Query 6
