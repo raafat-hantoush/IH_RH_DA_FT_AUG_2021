@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.112 seconds.
+Conversion time: 1.149 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Mon Aug 23 2021 13:57:08 GMT-0700 (PDT)
+* Tue Aug 24 2021 14:10:59 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -28,6 +28,14 @@ Conversion notes:
 <table>
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
+<p>
+<strong>Week 3 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Sub Queries
+
+<li>DDL
+
 <p>
 <strong>Week 3 | Day 2 `s Learning Objectives:</strong>
 <ul>
@@ -43,6 +51,8 @@ Conversion notes:
 <li>Relational Databases
 
 <li>SQL Queries.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -86,7 +96,7 @@ Conversion notes:
    </td>
    <td>[Activity ERD]
    </td>
-   <td>[Lab] Lab | SQL Sub Queries
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Subqueries.md">[Lab] Lab | SQL Sub Queries</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1JEC77rHggiED7i3qb_U1XOXhvaj4gaj4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Select Case Statement</a>
    </td>
@@ -128,7 +138,7 @@ Connect Python into MySQL
    </td>
    <td>
    </td>
-   <td>[Lab] DDL
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_queiries_DDL.md">[Lab] DDL</a>
    </td>
    <td>
    </td>
