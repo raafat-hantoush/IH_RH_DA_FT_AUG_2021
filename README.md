@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.145 seconds.
+Conversion time: 1.371 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Tue Aug 24 2021 14:15:12 GMT-0700 (PDT)
+* Tue Aug 24 2021 14:20:40 GMT-0700 (PDT)
 * Source doc: Week 1
 * Tables are currently converted to HTML tables.
 ----->
@@ -510,3 +510,4 @@ Connect Python into MySQL
    </td>
   </tr>
 </table>
+
