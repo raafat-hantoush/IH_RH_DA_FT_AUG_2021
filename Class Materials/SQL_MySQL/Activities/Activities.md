@@ -10,4 +10,4 @@ Suppose you are given the following requirements for a simple database for the N
 
 Please construct clean ERD Diagram for the NHL database.
 
-Source: California State university 
+Source: California State University 
