@@ -4,3 +4,4 @@
 + https://www.w3resource.com/slides/mysql-string-functions.php
 + https://www.guru99.com/database-normalization.html
 + https://www.mysqltutorial.org/mysql-temporary-table/
++ https://www.talend.com/resources/what-is-data-mart/
