@@ -5,3 +5,4 @@
 + https://www.guru99.com/database-normalization.html
 + https://www.mysqltutorial.org/mysql-temporary-table/
 + https://www.talend.com/resources/what-is-data-mart/
++ http://gkmc.utah.edu/ebis_class/2003s/Oracle/DMB26/A73318/schemas.htm
