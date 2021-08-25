@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.371 seconds.
+Conversion time: 1.741 seconds.
 
 
 Using this Markdown file:
@@ -14,8 +14,8 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Tue Aug 24 2021 14:20:40 GMT-0700 (PDT)
-* Source doc: Week 1
+* Wed Aug 25 2021 14:29:24 GMT-0700 (PDT)
+* Source doc: Bootcamp Contents
 * Tables are currently converted to HTML tables.
 ----->
 
@@ -29,12 +29,24 @@ Conversion notes:
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
 <p>
+<strong>Week 3 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>DDL
+
+<li>Stored Procedures
+
+<li>Select Case Statement.
+
+<p>
 <strong>Week 3 | Day 3 `s Learning Objectives:</strong>
 <ul>
 
+<li>ERD
+
 <li>Sub Queries
 
-<li>DDL
+<li>Temporary Tables/ Views
 
 <p>
 <strong>Week 3 | Day 2 `s Learning Objectives:</strong>
@@ -51,6 +63,8 @@ Conversion notes:
 <li>Relational Databases
 
 <li>SQL Queries.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -80,11 +94,11 @@ Conversion notes:
 <p>
 <a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">SQL Sub Queries</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Activities/Activities.md">[Activity ERD]</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1h16mxSUulN9VWEfqz0VEIXSseN7SvY5a/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Stored Procedures</a>
+   <td><a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">DDL</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
@@ -94,11 +108,13 @@ Conversion notes:
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Activities/Activities.md">[Activity ERD]</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Lab | Sql Join two tables</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Subqueries.md">[Lab] Lab | SQL Sub Queries</a>
+   <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">SQL Sub Queries</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1JEC77rHggiED7i3qb_U1XOXhvaj4gaj4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Select Case Statement</a>
+   <td><a href="https://docs.google.com/presentation/d/1h16mxSUulN9VWEfqz0VEIXSseN7SvY5a/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Stored Procedures</a>
    </td>
    <td>[Notebook]
 <p>
@@ -108,13 +124,13 @@ Connect Python into MySQL
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Lab | Sql Join two tables</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] Lab | Sql Join multiple tables</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
-<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Temporary Table/Views</a>
+<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Temporary Table/ Views</a>
    </td>
-   <td>[Lab] Lab | Group By
+   <td><a href="https://docs.google.com/presentation/d/1JEC77rHggiED7i3qb_U1XOXhvaj4gaj4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Select Case Statement</a>
    </td>
    <td>[Activity] No-SQL Databases MongoDB
    </td>
@@ -122,13 +138,11 @@ Connect Python into MySQL
   <tr>
    <td>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] Lab | Sql Join multiple tables</a>
+   <td>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1_eqantztPUyqKO7gfkIBFJA6gbPKrQY7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">DDL</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Subqueries.md">[Lab] Lab | SQL Sub Queries</a>
    </td>
-   <td>[Lab] Lab | Stored Procedures
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_queiries_DDL.md">[Lab] DDL</a>
    </td>
    <td>Weekly Retro
    </td>
@@ -138,9 +152,9 @@ Connect Python into MySQL
    </td>
    <td>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_queiries_DDL.md">[Lab] DDL</a>
-   </td>
    <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_GroupBy.md">[Lab] Lab | Group By</a>
    </td>
    <td>[Lab] Lab | Python to Mysql
    </td>
@@ -510,4 +524,3 @@ Connect Python into MySQL
    </td>
   </tr>
 </table>
-
