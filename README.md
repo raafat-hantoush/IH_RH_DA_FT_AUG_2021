@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.741 seconds.
+Conversion time: 1.034 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Wed Aug 25 2021 14:29:24 GMT-0700 (PDT)
+* Thu Aug 26 2021 03:45:24 GMT-0700 (PDT)
 * Source doc: Bootcamp Contents
 * Tables are currently converted to HTML tables.
 ----->
@@ -142,7 +142,7 @@ Connect Python into MySQL
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Subqueries.md">[Lab] Lab | SQL Sub Queries</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_queiries_DDL.md">[Lab] DDL</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Queries_DDL.md">[Lab] DDL</a>
    </td>
    <td>Weekly Retro
    </td>
@@ -524,3 +524,4 @@ Connect Python into MySQL
    </td>
   </tr>
 </table>
+
