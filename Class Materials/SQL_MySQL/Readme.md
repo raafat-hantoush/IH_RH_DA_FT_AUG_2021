@@ -7,3 +7,4 @@
 + https://www.talend.com/resources/what-is-data-mart/
 + http://gkmc.utah.edu/ebis_class/2003s/Oracle/DMB26/A73318/schemas.htm
 + https://www.mysqltutorial.org/mysql-stored-function/
++ https://michaelcho.me/article/sqlalchemy-commit-flush-expire-refresh-merge-whats-the-difference
