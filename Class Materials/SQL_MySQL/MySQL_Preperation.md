@@ -10,4 +10,4 @@ By: Florian Titze
     * the czech bank database (Run a test query, e.g. select * from bank.account; and make sure it runs successfully and returns rows). 
     Use the mysql_dump.sql file you find on #data-general on Slack to import 
     (in MySQL workbench via Sever -> Data Import -> Import from Dump Project Folder.... select the folder in which the dump file is in, -> Start Import)
-    * After every import of databases, you need to press the tiny refresh button in the SCHEMAS field.
+ + After every import of databases, you need to press the tiny refresh button in the SCHEMAS field.
