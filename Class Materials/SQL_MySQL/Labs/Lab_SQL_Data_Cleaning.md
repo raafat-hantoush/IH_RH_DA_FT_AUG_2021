@@ -1,4 +1,4 @@
-## Lab Data Cleaning using SQL
+## Lab - Data Cleaning using SQL
 
 Please re-apply the data cleaning steps that you have performed previously(using Pandas)  on the Customer Analysis Case Study using SQL this time. You can find the previous lab in this [Link](https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md)
 
