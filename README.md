@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.25 seconds.
+Conversion time: 1.216 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Thu Aug 26 2021 07:33:43 GMT-0700 (PDT)
+* Thu Aug 26 2021 16:01:44 GMT-0700 (PDT)
 * Source doc: Bootcamp Contents
 * Tables are currently converted to HTML tables.
 ----->
@@ -28,6 +28,18 @@ Conversion notes:
 <table>
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
+<p>
+<strong>Week 3 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Connect Python to Mysql
+
+<li>Data Cleaning using MySQL
+
+<li>MongoDB
+
+<li>Data Warehouses
+
 <p>
 <strong>Week 3 | Day 4 `s Learning Objectives:</strong>
 <ul>
@@ -63,6 +75,8 @@ Conversion notes:
 <li>Relational Databases
 
 <li>SQL Queries.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -116,9 +130,9 @@ Conversion notes:
    </td>
    <td><a href="https://docs.google.com/presentation/d/1h16mxSUulN9VWEfqz0VEIXSseN7SvY5a/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Stored Procedures</a>
    </td>
-   <td>[Notebook]
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Notebook_Connecting_Python_To_Sql.ipynb">[Notebook]</a>
 <p>
-Connect Python into MySQL
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Notebook_Connecting_Python_To_Sql.ipynb">Connect Python into MySQL</a>
    </td>
   </tr>
   <tr>
@@ -144,7 +158,7 @@ Connect Python into MySQL
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Queries_DDL.md">[Lab] DDL</a>
    </td>
-   <td>Weekly Retro
+   <td>Weekly Recap
    </td>
   </tr>
   <tr>
@@ -156,7 +170,9 @@ Connect Python into MySQL
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_GroupBy.md">[Lab] Lab | Group By</a>
    </td>
-   <td>[Lab] Lab | Python to Mysql
+   <td><a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
    </td>
   </tr>
   <tr>
@@ -168,7 +184,19 @@ Connect Python into MySQL
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Stored_Procedures.sql">[Lab] (Optional) (Additional) Lab | Stored Procedures</a>
    </td>
-   <td>[Lab] Lab | SQL Data Cleaning
+   <td>[Activity] Lab | Python to Mysql
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Data_Cleaning.md">[Lab] Lab | SQL Data Cleaning</a>
    </td>
   </tr>
 </table>
@@ -524,4 +552,3 @@ Connect Python into MySQL
    </td>
   </tr>
 </table>
-
