@@ -12,7 +12,6 @@ coach_full_name varchar (45),
 captain_id INT
 );
 
-
 create table  if not exists players(
 player_id INT PRIMARY KEY AUTO_INCREMENT,
 player_name VARCHAR(45) NOT NULL,
@@ -34,7 +33,6 @@ insert into teams(name,city,coach_full_name,captain_id) values (
 
 insert into players (player_name,player_position,skill_level,team_id) 
 values ("Ayse","LW","A",3);
-
 
 #ALTER TABLE players
 #DROP FOREIGN KEY players_ibfk_1;
@@ -58,5 +56,3 @@ values ("Ayse","LW","A",3);
 
 ALTER TABLE lab_db.data_marketing_customer_analysis_round2 
 RENAME COLUMN `Renew Offer Type` TO renew_offer_type;
-
-
