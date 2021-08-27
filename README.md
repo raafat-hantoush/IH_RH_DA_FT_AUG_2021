@@ -1,7 +1,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 1.216 seconds.
+Conversion time: 1.462 seconds.
 
 
 Using this Markdown file:
@@ -14,7 +14,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β30
-* Thu Aug 26 2021 16:01:44 GMT-0700 (PDT)
+* Fri Aug 27 2021 00:00:54 GMT-0700 (PDT)
 * Source doc: Bootcamp Contents
 * Tables are currently converted to HTML tables.
 ----->
@@ -158,7 +158,7 @@ Conversion notes:
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Queries_DDL.md">[Lab] DDL</a>
    </td>
-   <td>Weekly Recap
+   <td><a href="https://docs.google.com/presentation/d/1Fb9rQb87VKbWsiNU0JUahIa6X8jJQlwi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
    </td>
   </tr>
   <tr>
