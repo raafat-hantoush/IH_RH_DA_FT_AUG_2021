@@ -1,14 +1,8 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Index of Contents**
-
-
-<table>
-  <tr>
-   <td colspan="5" ><strong>Week 4</strong>
-<p>
 Day1
+
 
 <table>
   <tr>
@@ -64,132 +58,115 @@ Break
 </table>
 
 
-**Week 4 | Day 1 `s Learning Objectives:**
+**Index of Contents**
 
 
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
+<ul>
 
-* Intro to Machine Learning
-* Probability 
-* Sampling
-* Probability distributions
-* Data Transformation/Processing
+<li>Intro to Machine Learning
+
+<li>Probability 
+
+<li>Sampling
+
+<li>Probability distributions
+
+<li>Data Transformation/Processing
+</li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td>
-**Day 1**
-
+   <td><strong>Day 1</strong>
    </td>
-   <td>**Day 2**
-
+   <td><strong>Day 2</strong>
    </td>
-   <td>**Day 3**
-
+   <td><strong>Day 3</strong>
    </td>
-   <td>**Day 4**
-
+   <td><strong>Day 4</strong>
    </td>
-   <td>**Day 5**
-
+   <td><strong>Day 5</strong>
    </td>
   </tr>
   <tr>
-   <td>[[Presentation]](https://docs.google.com/presentation/d/1NKVKx3xqzHmv7NQX1wQ2aSD--fWxo80w/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
-[Intro to Machine Learning](https://docs.google.com/presentation/d/1NKVKx3xqzHmv7NQX1wQ2aSD--fWxo80w/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1NKVKx3xqzHmv7NQX1wQ2aSD--fWxo80w/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1NKVKx3xqzHmv7NQX1wQ2aSD--fWxo80w/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Intro to Machine Learning</a>
    </td>
-   <td>[[Presentation] Linear Regression](https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
    </td>
-   <td>[[Presentation]](https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
-[Improving Model Accuracy](https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1BVu-5hpgW2DPqCz2_wTf3NizALRAfjE7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Improving Model Accuracy</a>
    </td>
-   <td>[[Presentation] Data Visualisation](https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualisation</a>
    </td>
-   <td>[[Presentation] Storytelling with Data ](https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data </a>
    </td>
   </tr>
   <tr>
-   <td>[[Presentation]](https://docs.google.com/presentation/d/1p6Y7Oa5Dwx4KmyuWgiZ4AKwxYOB-kEyo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
-[Probability](https://docs.google.com/presentation/d/1p6Y7Oa5Dwx4KmyuWgiZ4AKwxYOB-kEyo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1p6Y7Oa5Dwx4KmyuWgiZ4AKwxYOB-kEyo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1p6Y7Oa5Dwx4KmyuWgiZ4AKwxYOB-kEyo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Probability</a>
    </td>
    <td>[Activity] Modeling
-
    </td>
-   <td>[[Presentation] Intro to Tableau ](https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
    </td>
-   <td>[[Presentation] Tableau ](https://docs.google.com/presentation/d/1FDhOzlnqOdpzzwDvlCj3WA445A-m5vo0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1FDhOzlnqOdpzzwDvlCj3WA445A-m5vo0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
    </td>
    <td>[Code Along] Tableau
-
    </td>
   </tr>
   <tr>
-   <td>[[Presentation]](https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
-[Sampling](https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true) 
-
+   <td><a href="https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Sampling</a> 
    </td>
    <td>[LAB] Lab | Model Fitting and Evaluating
-
    </td>
    <td>[Activity] Tableau Intro
-
    </td>
    <td>[Activity] Tableau 
-
    </td>
    <td>[Activity] Tableau
-
    </td>
   </tr>
   <tr>
-   <td>[[Presentation]](https://docs.google.com/presentation/d/1XdR5iUVqmAaECCf-z8yuqfaIa9KloOUq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
-[Probability Distributions](https://docs.google.com/presentation/d/1XdR5iUVqmAaECCf-z8yuqfaIa9KloOUq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true) 
-
+   <td><a href="https://docs.google.com/presentation/d/1XdR5iUVqmAaECCf-z8yuqfaIa9KloOUq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1XdR5iUVqmAaECCf-z8yuqfaIa9KloOUq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Probability Distributions</a> 
    </td>
    <td>
    </td>
    <td>[LAB] Lab | Model Evaluation and Improving
-
    </td>
    <td>[Activity] Tableau
-
    </td>
    <td>Weekly Recap
-
    </td>
   </tr>
   <tr>
-   <td>[[Presentation]](https://docs.google.com/presentation/d/1WEh0T9n9mkazdzMCqq2uINFNZIo3rxCa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
-[Data Processing](https://docs.google.com/presentation/d/1WEh0T9n9mkazdzMCqq2uINFNZIo3rxCa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true)
-
+   <td><a href="https://docs.google.com/presentation/d/1WEh0T9n9mkazdzMCqq2uINFNZIo3rxCa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1WEh0T9n9mkazdzMCqq2uINFNZIo3rxCa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Processing</a>
    </td>
    <td>
    </td>
    <td>
    </td>
    <td>[LAB] Lab | Tableau
-
    </td>
-   <td>[Midterm Project Intro/ Briefing](https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/MidTerm_Project/MidTerm_Regression_Project.md)
-
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/MidTerm_Project/MidTerm_Regression_Project.md">Midterm Project Intro/ Briefing</a>
    </td>
   </tr>
   <tr>
    <td>[Activity] Distributions
-
    </td>
    <td>
    </td>
@@ -198,12 +175,10 @@ Break
    <td>
    </td>
    <td>Weekly Retro
-
    </td>
   </tr>
   <tr>
    <td>Weekly Retro
-
    </td>
    <td>
    </td>
@@ -212,12 +187,10 @@ Break
    <td>
    </td>
    <td>[LAB] Lab | Tableau
-
    </td>
   </tr>
   <tr>
-   <td>[[LAB] Lab | Data Transformation](https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md)
-
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Data Transformation</a>
    </td>
    <td>
    </td>
