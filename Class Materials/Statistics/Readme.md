@@ -7,3 +7,4 @@
 - https://www.jigsawacademy.com/understanding-dummy-variable-traps-regression/
 - https://scikit-learn.org/stable/modules/model_evaluation.html
 - https://blog.minitab.com/en/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables
+- https://www.random.org/randomness/
