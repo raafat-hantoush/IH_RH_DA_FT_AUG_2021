@@ -67,8 +67,8 @@ Here are some of the tasks you need to perform:
 ### Model Validation
 
 - Description:
-  - R2.
   - MSE.
   - RMSE.
   - MAE.
+  - R2.
 
