@@ -51,7 +51,7 @@ Here are some of the tasks you need to perform:
 
 ### Activity 6
 
-### Processing Data
+#### Processing Data
 
 (_Further processing..._)
 - X-y split.
@@ -59,12 +59,12 @@ Here are some of the tasks you need to perform:
 - One Hot/Label Encoding (categorical).
 - Concat DataFrames
 
-### Linear Regression
+#### Linear Regression
 
 - Train-test split.
 - Apply linear regression.
 
-### Model Validation
+#### Model Validation
 
 - Description:
   - MSE.
