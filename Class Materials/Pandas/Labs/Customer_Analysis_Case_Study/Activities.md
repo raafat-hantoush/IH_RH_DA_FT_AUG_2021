@@ -48,3 +48,27 @@ Here are some of the tasks you need to perform:
 - Drop one of the two features that show a high correlation between them (greater than 0.9). Write code for both the correlation matrix and for seaborn heatmap. If there is no pair of features that have a high correlation, then do not drop any features
 
 - Bonus: split Data set into train and test sets
+
+### Activity 6
+
+### Processing Data
+
+(_Further processing..._)
+- X-y split.
+- Normalize (numerical). (_done_)
+- One Hot/Label Encoding (categorical).
+- Concat DataFrames
+
+### Linear Regression
+
+- Train-test split.
+- Apply linear regression.
+
+### Model Validation
+
+- Description:
+  - R2.
+  - MSE.
+  - RMSE.
+  - MAE.
+
