@@ -1,24 +1,22 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-Day1
+Day 2
 
 
 <table>
   <tr>
    <td>9:00 - 9:20
    </td>
-   <td>9:20 - 9:35
+   <td>9:20 - 9:50
    </td>
-   <td>9:35 - 10:20
+   <td>9:50 - 10:00
    </td>
-   <td>10:20 - 10:35
+   <td>10:00 - 11:35
    </td>
-   <td>10:35 - 11:35
+   <td>11:35 - 11:50
    </td>
-   <td>11:35 - 11:45
-   </td>
-   <td>11:45 - 
+   <td>11:50 - 
 <p>
 13:00
    </td>
@@ -26,17 +24,13 @@ Day1
 <p>
 14:15
    </td>
-   <td>14:15 - 15:00
-   </td>
-   <td>15:00 - 18:00
+   <td>14:15 - 18:00
    </td>
   </tr>
   <tr>
    <td>Warm up
    </td>
    <td>Review Q&A
-   </td>
-   <td>Lecture + Q&A
    </td>
    <td>Break
    </td>
@@ -49,8 +43,6 @@ Day1
    <td>Lunch
 <p>
 Break
-   </td>
-   <td>Weekly Retro
    </td>
    <td>Lab Work
    </td>
@@ -65,6 +57,16 @@ Break
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
 <p>
+<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>One Hot/Label Encoding (categorical).
+
+<li>Linear regression
+
+<li>Model Validation
+
+<p>
 <strong>Week 4 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -77,6 +79,8 @@ Break
 <li>Probability distributions
 
 <li>Data Transformation/Processing
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -128,7 +132,7 @@ Break
 <p>
 <a href="https://docs.google.com/presentation/d/1shmW7fLY1uZhgjy5XDqpsZ9D0x0iDde1/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Sampling</a> 
    </td>
-   <td>[LAB] Lab | Model Fitting and Evaluating
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Fitting and Evaluating</a>
    </td>
    <td>[Activity] Tableau Intro
    </td>
@@ -732,4 +736,3 @@ Break
    </td>
   </tr>
 </table>
-
