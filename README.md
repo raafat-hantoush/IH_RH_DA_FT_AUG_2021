@@ -1,30 +1,30 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-Day 2
+Day 3
 
 
 <table>
   <tr>
    <td>9:00 - 9:20
    </td>
-   <td>9:20 - 9:50
+   <td>9:20 - 10:15
    </td>
-   <td>9:50 - 10:00
+   <td>10:15 - 10:30
    </td>
-   <td>10:00 - 11:35
+   <td>10:30 - 11:45
    </td>
-   <td>11:35 - 11:50
+   <td>11:45 - 12:00
    </td>
-   <td>11:50 - 
+   <td>12:00 - 
 <p>
-13:00
+12:50
    </td>
-   <td>13:00 -
+   <td>12:50 -
 <p>
-14:15
+14:05
    </td>
-   <td>14:15 - 18:00
+   <td>14:05 - 18:00
    </td>
   </tr>
   <tr>
@@ -57,6 +57,18 @@ Break
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
 <p>
+<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear regression review
+
+<li>Model Validation
+
+<li>Improve data Transformation
+
+<li>Intro to Tableau GUI
+
+<p>
 <strong>Week 4 | Day 2 `s Learning Objectives:</strong>
 <ul>
 
@@ -79,6 +91,8 @@ Break
 <li>Probability distributions
 
 <li>Data Transformation/Processing
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -148,7 +162,7 @@ Break
    </td>
    <td>
    </td>
-   <td>[LAB] Lab | Model Evaluation and Improving
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Evaluation and Improving</a>
    </td>
    <td>[Activity] Tableau
    </td>
@@ -736,3 +750,4 @@ Break
    </td>
   </tr>
 </table>
+
