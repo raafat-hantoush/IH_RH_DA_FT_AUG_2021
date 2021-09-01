@@ -5,3 +5,4 @@
 + https://blog.minitab.com/en/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables
 + https://balavenkatesh.medium.com/ten-minutes-to-learn-linear-regression-for-dummies-5469038f4781
 + https://scikit-learn.org/stable/modules/model_evaluation.html
++ https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html
