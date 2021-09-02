@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-Day 4
+**Day 5**
 
 
 <table>
@@ -12,11 +12,11 @@ Day 4
    </td>
    <td>09:50 - 10:00
    </td>
-   <td>10:00- 11:15
+   <td>10:00- 11:00
    </td>
-   <td>11:15 - 11:30
+   <td>11:00 - 11:15
    </td>
-   <td>11:30 - 
+   <td>11:15 - 
 <p>
 12:50
    </td>
@@ -24,7 +24,9 @@ Day 4
 <p>
 14:05
    </td>
-   <td>14:05 - 18:00
+   <td>14:05 - 15:00
+   </td>
+   <td>15:00 - 18:00
    </td>
   </tr>
   <tr>
@@ -34,7 +36,7 @@ Day 4
    </td>
    <td>Break
    </td>
-   <td>Lecture + Q&A
+   <td>Guest Speaker
    </td>
    <td>Break
    </td>
@@ -43,6 +45,8 @@ Day 4
    <td>Lunch
 <p>
 Break
+   </td>
+   <td>Weekly Retro
    </td>
    <td>Lab Work
    </td>
@@ -56,6 +60,18 @@ Break
 <table>
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 5`s Learning Objectives:</strong>
+<ul>
+
+<li>Tableau Table Calculations
+
+<li>Tableau different data sources.
+
+<li>Chart Types
+
+<li>Storytelling with Data.
+
 <p>
 <strong>Week 4 | Day 4 `s Learning Objectives:</strong>
 <ul>
@@ -103,6 +119,8 @@ Break
 <li>Probability distributions
 
 <li>Data Transformation/Processing
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -194,7 +212,7 @@ Break
    </td>
    <td>
    </td>
-   <td>Weekly Recap
+   <td><a href="https://docs.google.com/presentation/d/1guBHLs9xzEafOslJhOSvzQTC_oonqCHC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
    </td>
   </tr>
   <tr>
