@@ -1,22 +1,22 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-Day 3
+Day 4
 
 
 <table>
   <tr>
    <td>9:00 - 9:20
    </td>
-   <td>9:20 - 10:15
+   <td>9:20 - 9:50
    </td>
-   <td>10:15 - 10:30
+   <td>09:50 - 10:00
    </td>
-   <td>10:30 - 11:45
+   <td>10:00- 11:15
    </td>
-   <td>11:45 - 12:00
+   <td>11:15 - 11:30
    </td>
-   <td>12:00 - 
+   <td>11:30 - 
 <p>
 12:50
    </td>
@@ -60,6 +60,18 @@ Break
 <strong>Week 4 | Day 3 `s Learning Objectives:</strong>
 <ul>
 
+<li>Tableau Dimensions, Measures, Geo fields
+
+<li>Chart Types
+
+<li>Visualization practices.
+
+<li>Intro to Tableau GUI
+
+<p>
+<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
 <li>Linear regression review
 
 <li>Model Validation
@@ -91,6 +103,8 @@ Break
 <li>Probability distributions
 
 <li>Data Transformation/Processing
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -750,4 +764,3 @@ Break
    </td>
   </tr>
 </table>
-
