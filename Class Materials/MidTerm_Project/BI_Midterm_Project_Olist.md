@@ -1,6 +1,6 @@
 # BI Midterm Project
 
-For this project, you can see the description of the data and what are the expected outcomes in the [following link] (http://dataviz.etublogs.usj.edu.lb/2020/12/02/business-intelligence-dashboards-olist-the-brazilian-e-commerce-website/) from business intelligence persepective.  Olist Database(Brazilian e-commerce site) is very popular database and the original files were taken from the famous kaggle web site. 
+For this project, you can see the description of the data and what are the expected outcomes in the [following link ](http://dataviz.etublogs.usj.edu.lb/2020/12/02/business-intelligence-dashboards-olist-the-brazilian-e-commerce-website/) from business intelligence persepective.  Olist Database(Brazilian e-commerce site) is very popular database and the original files were taken from the famous kaggle web site. 
 
 
 ##  Olist Data SET 
