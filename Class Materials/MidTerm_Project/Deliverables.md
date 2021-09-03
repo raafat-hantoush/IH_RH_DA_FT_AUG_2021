@@ -8,7 +8,6 @@ You should maintain a separate GitHub repo for this project with the following f
 - Tableau workbook(If Any)
 - File containing SQL queries (If Any)
 
-\*\* You are provided with the rubrics that will be used to evaluate the projects. Please go through the document for more details on the specificities for different files.
 
 ### Some other tips
 
