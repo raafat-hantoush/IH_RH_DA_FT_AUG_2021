@@ -77,6 +77,18 @@
   <tr>
    <td>Submitting project plans
    </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+  </tr>
+  <tr>
+   <td>Work on the project
+   </td>
    <td>
    </td>
    <td>
