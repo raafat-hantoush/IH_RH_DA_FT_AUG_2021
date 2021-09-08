@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 5**
+**Day 1**
 
 
 <table>
@@ -30,31 +30,64 @@
    </td>
   </tr>
   <tr>
-   <td>Warm up
+   <td>
    </td>
-   <td>Review Q&A
+   <td>
    </td>
-   <td>Break
+   <td>
    </td>
-   <td>Guest Speaker
+   <td>
    </td>
-   <td>Break
+   <td>
    </td>
-   <td>Lecture / Q&A
+   <td>
    </td>
-   <td>Lunch
-<p>
-Break
+   <td>
    </td>
-   <td>Weekly Retro
+   <td>
    </td>
-   <td>Lab Work
+   <td>
    </td>
   </tr>
 </table>
 
 
-**Index of Contents**
+**Table of Contents**
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 5</strong>
+<p>
+<strong>Mid-Term Project</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Submitting project plans
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Presentations
+   </td>
+  </tr>
+</table>
+
 
 
 <table>
@@ -156,7 +189,7 @@ Break
    </td>
    <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
    </td>
-   <td>Guest Speaker
+   <td>Guest Speaker, CTO
    </td>
   </tr>
   <tr>
@@ -224,7 +257,7 @@ Break
    </td>
    <td>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/MidTerm_Project/MidTerm_Regression_Project.md">Midterm Project Intro/ Briefing</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
    </td>
   </tr>
   <tr>
@@ -782,3 +815,4 @@ Break
    </td>
   </tr>
 </table>
+
