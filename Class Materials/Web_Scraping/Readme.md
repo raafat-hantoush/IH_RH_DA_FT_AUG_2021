@@ -2,6 +2,7 @@
 - https://www.w3schools.com/tags/default.asp
 - https://www.dataquest.io/blog/python-api-tutorial/
 - https://www.dataquest.io/blog/last-fm-api-python/
+- https://apipheny.io/free-api/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 - https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/
 - https://www.dataquest.io/blog/web-scraping-beautifulsoup/
