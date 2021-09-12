@@ -7,3 +7,4 @@
 + https://scikit-learn.org/stable/modules/model_evaluation.html
 + https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html
 + https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net
++ https://machinelearningmastery.com/clustering-algorithms-with-python/
