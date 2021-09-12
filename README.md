@@ -8,29 +8,143 @@
   <tr>
    <td>9:00 - 9:20
    </td>
-   <td>9:20 - 9:50
+   <td>9:20 - 9:40
    </td>
-   <td>09:50 - 10:00
+   <td>09:40 - 10:10
    </td>
-   <td>10:00- 11:00
+   <td>10:10 - 10:20
    </td>
-   <td>11:00 - 11:15
+   <td>10:20 - 11:20
    </td>
-   <td>11:15 - 
+   <td>11:20 - 
 <p>
-12:50
+11:30
    </td>
-   <td>12:50 -
+   <td>11:30 -11:45
+   </td>
+   <td>11:45 - 13:00
+   </td>
+   <td>13:00 -
 <p>
-14:05
+14:15
    </td>
-   <td>14:05 - 15:00
-   </td>
-   <td>15:00 - 18:00
+   <td>14:15 - 18:00
    </td>
   </tr>
   <tr>
+   <td>Warm-up
+   </td>
+   <td>Q&A
+   </td>
+   <td>Gnod Project
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Q&A
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture + Q&A
+   </td>
+   <td>Lunch Break
+   </td>
+   <td>Lab Work
+   </td>
+  </tr>
+</table>
+
+
+**Table of Contents**
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 6</strong>
+<p>
+<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Web Scraping
+
+<li>HTML, CSS
+
+<li>Beautiful Soap
+
+<li>Project Prototypes
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study]</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">Gnod Song Recommender</a>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping_Structure.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1B4BDbAGkt4ixCD1Z4eKuIjkjLy9kApll/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/15DcUE3ZIpgIXHBMBBGQJsdhaOVpAxNcD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
+   </td>
+   <td>[Weekly Retro]
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1K-zv_XGKE7Wrx6iibn-24ycNYYTLHBml/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1K-zv_XGKE7Wrx6iibn-24ycNYYTLHBml/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Web Scraping</a>
+   </td>
+   <td>[Code Along] Python Modules with VS Code
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1kG03gmLq_yiqzO7gDRhihEUwba3ltkN2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/16EbJCtu_3H8-cx_Nq0PbY7fCzcPZ0agA/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+   </td>
+   <td>[Presentation] Weekly Recap
+   </td>
+  </tr>
+  <tr>
+   <td>[Activity] HTML
+<p>
+<a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
+   </td>
+   <td>[LAB] Song Recommender Project 
+   </td>
+   <td>[LAB] Song Recommender Project 
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+   </td>
+   <td>[LAB] Song Recommender Project 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping_Structure.ipynb">[Notebook] Web Scraping Code Along</a>
+   </td>
    <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1SrE42Qy4bBrfHVM16bG2XbI1o_qeiIvS/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
+   </td>
+   <td>Presentations
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1Pytuj1Nc9pfAWbIi-QrSkfgnP8wPSayk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
    </td>
    <td>
    </td>
@@ -39,6 +153,10 @@
    <td>
    </td>
    <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/18IaKycIkXgplQcJ28RrvOefJexvg1LCs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
    </td>
    <td>
    </td>
@@ -51,8 +169,6 @@
   </tr>
 </table>
 
-
-**Table of Contents**
 
 
 <table>
