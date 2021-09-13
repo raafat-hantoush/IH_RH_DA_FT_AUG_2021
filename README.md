@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 1**
+**Day 2**
 
 
 <table>
@@ -10,7 +10,7 @@
    </td>
    <td>9:20 - 9:40
    </td>
-   <td>09:40 - 10:10
+   <td>09:45 - 10:10
    </td>
    <td>10:10 - 10:20
    </td>
@@ -22,13 +22,13 @@
    </td>
    <td>11:30 -11:45
    </td>
-   <td>11:45 - 13:00
+   <td>11:45 - 12:45
    </td>
-   <td>13:00 -
+   <td>12:45 -
 <p>
-14:15
+14:00
    </td>
-   <td>14:15 - 18:00
+   <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
@@ -63,6 +63,18 @@
   <tr>
    <td colspan="5" ><strong>Week 6</strong>
 <p>
+<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Web Scraping multiple pages.
+
+<li>Beautiful Soap
+
+<li>Project Prototypes
+
+<li>Python modules.
+
+<p>
 <strong>Week 6 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -72,7 +84,9 @@
 
 <li>Beautiful Soap
 
-<li>Project Prototypes
+<li>Python modules.
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -122,7 +136,7 @@
 <p>
 <a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
    </td>
-   <td>[LAB] Song Recommender Project 
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
    <td>[LAB] Song Recommender Project 
    </td>
@@ -943,4 +957,3 @@
    </td>
   </tr>
 </table>
-
