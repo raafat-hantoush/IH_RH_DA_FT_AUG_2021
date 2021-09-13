@@ -68,8 +68,6 @@
 
 <li>Web Scraping multiple pages.
 
-<li>Beautiful Soap
-
 <li>Project Prototypes
 
 <li>Python modules.
