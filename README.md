@@ -68,6 +68,8 @@
 
 <li>Web Scraping multiple pages.
 
+<li>Beautiful Soap
+
 <li>Project Prototypes
 
 <li>Python modules.
@@ -106,7 +108,7 @@
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">Gnod Song Recommender</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping_Structure.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1B4BDbAGkt4ixCD1Z4eKuIjkjLy9kApll/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
    </td>
@@ -955,3 +957,4 @@
    </td>
   </tr>
 </table>
+
