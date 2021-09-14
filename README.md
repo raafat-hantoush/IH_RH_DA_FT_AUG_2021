@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 2**
+**Day 3**
 
 
 <table>
@@ -10,25 +10,25 @@
    </td>
    <td>9:20 - 9:40
    </td>
-   <td>09:45 - 10:10
+   <td>09:40 - 10:15
    </td>
-   <td>10:10 - 10:20
+   <td>10:15- 10:25
    </td>
-   <td>10:20 - 11:20
+   <td>10:25 - 11:25
    </td>
-   <td>11:20 - 
+   <td>11:25 - 
 <p>
-11:30
+11:35
    </td>
-   <td>11:30 -11:45
+   <td>11:35 -11:50
    </td>
-   <td>11:45 - 12:45
+   <td>11:50 - 12:55
    </td>
-   <td>12:45 -
+   <td>12:55 -
 <p>
-14:00
+14:10
    </td>
-   <td>14:00 - 18:00
+   <td>14:10 - 18:00
    </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
    </td>
    <td>Q&A
    </td>
-   <td>Gnod Project
+   <td>Lecture
    </td>
    <td>Break
    </td>
@@ -63,6 +63,18 @@
   <tr>
    <td colspan="5" ><strong>Week 6</strong>
 <p>
+<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>APIs.
+
+<li>Spotify API.
+
+<li>JSON format overview.
+
+<li>Restful APIs
+
+<p>
 <strong>Week 6 | Day 2 `s Learning Objectives:</strong>
 <ul>
 
@@ -85,6 +97,8 @@
 <li>Beautiful Soap
 
 <li>Python modules.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -138,7 +152,7 @@
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
-   <td>[LAB] Song Recommender Project 
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
    </td>
