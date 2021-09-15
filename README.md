@@ -1,16 +1,16 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 3**
+**Day 4**
 
 
 <table>
   <tr>
    <td>9:00 - 9:20
    </td>
-   <td>9:20 - 9:40
+   <td>9:20 - 9:50
    </td>
-   <td>09:40 - 10:15
+   <td>09:50 - 10:15
    </td>
    <td>10:15- 10:25
    </td>
@@ -22,13 +22,13 @@
    </td>
    <td>11:35 -11:50
    </td>
-   <td>11:50 - 12:55
+   <td>11:50 - 12:30
    </td>
-   <td>12:55 -
+   <td>12:30 -
 <p>
-14:10
+13:45
    </td>
-   <td>14:10 - 18:00
+   <td>13:45 - 18:00
    </td>
   </tr>
   <tr>
@@ -62,6 +62,16 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 6</strong>
+<p>
+<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Unsupervised Learning
+
+<li>K-means Algorithm
+
+<li>Saving/Loading Model using Pickle
+
 <p>
 <strong>Week 6 | Day 3 `s Learning Objectives:</strong>
 <ul>
@@ -97,6 +107,8 @@
 <li>Beautiful Soap
 
 <li>Python modules.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -971,3 +983,4 @@
    </td>
   </tr>
 </table>
+
