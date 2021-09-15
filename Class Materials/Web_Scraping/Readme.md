@@ -1,5 +1,6 @@
 ## Useful Resources
 - https://www.w3schools.com/tags/default.asp
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 - https://www.dataquest.io/blog/python-api-tutorial/
 - https://www.dataquest.io/blog/last-fm-api-python/
 - https://apipheny.io/free-api/
