@@ -152,7 +152,7 @@
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
    </td>
@@ -164,7 +164,7 @@
    </td>
    <td>
    </td>
-   <td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1SrE42Qy4bBrfHVM16bG2XbI1o_qeiIvS/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
    </td>
@@ -176,7 +176,7 @@
    </td>
    <td>
    </td>
-   <td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
    </td>
    <td>
    </td>
@@ -971,4 +971,3 @@
    </td>
   </tr>
 </table>
-
