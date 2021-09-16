@@ -36,7 +36,7 @@
    </td>
    <td>Q&A
    </td>
-   <td>Lecture
+   <td>Activity
    </td>
    <td>Break
    </td>
