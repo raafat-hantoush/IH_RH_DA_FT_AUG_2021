@@ -1,56 +1,28 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 4**
+**Day 5**
 
 
 <table>
   <tr>
-   <td>9:00 - 9:20
+   <td>9:00 - 9:50
    </td>
-   <td>9:20 - 9:50
+   <td>9:50 - 10:00
    </td>
-   <td>09:50 - 10:15
+   <td>10:00 - 10:50
    </td>
-   <td>10:15- 10:25
-   </td>
-   <td>10:25 - 11:25
-   </td>
-   <td>11:25 - 
-<p>
-11:35
-   </td>
-   <td>11:35 -11:50
-   </td>
-   <td>11:50 - 12:30
-   </td>
-   <td>12:30 -
-<p>
-13:45
-   </td>
-   <td>13:45 - 18:00
+   <td>15:30 - 17:00
    </td>
   </tr>
   <tr>
-   <td>Warm-up
-   </td>
-   <td>Q&A
-   </td>
-   <td>Activity
+   <td>Weekly Recap
    </td>
    <td>Break
    </td>
-   <td>Lecture
+   <td>Weekly Retro
    </td>
-   <td>Q&A
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture + Q&A
-   </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab Work
+   <td>Project Presentations
    </td>
   </tr>
 </table>
@@ -62,6 +34,14 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 6</strong>
+<p>
+<strong>Week 6 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Weekly Recap
+
+<li>Projects Presentations
+
 <p>
 <strong>Week 6 | Day 4 `s Learning Objectives:</strong>
 <ul>
@@ -115,6 +95,8 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -140,7 +122,7 @@
    </td>
    <td><a href="https://docs.google.com/presentation/d/15DcUE3ZIpgIXHBMBBGQJsdhaOVpAxNcD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
    </td>
-   <td>[Weekly Retro]
+   <td><a href="https://docs.google.com/presentation/d/1qbgbrgfNuesRpgmwAZs_5rhrtEFPxXqp/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
    </td>
   </tr>
   <tr>
@@ -154,7 +136,7 @@
    </td>
    <td><a href="https://docs.google.com/presentation/d/16EbJCtu_3H8-cx_Nq0PbY7fCzcPZ0agA/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
    </td>
-   <td>[Presentation] Weekly Recap
+   <td>[Weekly Retro]
    </td>
   </tr>
   <tr>
