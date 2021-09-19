@@ -8,3 +8,4 @@
 + https://help.tableau.com/v2021.2/public/desktop/en-us/datasource_multitable_normalized.htm
 + https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_create.htm
 + https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_create.htm
++ https://www.storytellingwithdata.com/blog
