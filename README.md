@@ -138,7 +138,7 @@
    </td>
    <td>Ensemble Methods
    </td>
-   <td>Hackathon* / Kahoot*
+   <td>Hackathon*
    </td>
   </tr>
   <tr>
