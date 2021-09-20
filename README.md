@@ -120,7 +120,7 @@
 <p>
 <a href="https://docs.google.com/presentation/d/1uge3rEBVBkrLv-EBaMBYGaT9j2BRkDhF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">KNN</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+   <td>[LAB] Logistic Regression, Imbalance Sets
    </td>
    <td>
    </td>
