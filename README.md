@@ -1,34 +1,180 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 5**
+**Day 1**
 
 
 <table>
   <tr>
-   <td>9:00 - 9:50
+   <td>9:00 - 9:20
    </td>
-   <td>9:50 - 10:00
+   <td>9:20 - 10:00
    </td>
-   <td>10:00 - 10:50
+   <td>10:00 - 10:10
    </td>
-   <td>15:30 - 17:00
+   <td>10:10-10:20
+   </td>
+   <td>10:20 - 11:20
+   </td>
+   <td>11:20 -11:30
+   </td>
+   <td>11:30 - 11:45
+   </td>
+   <td>11:45 - 12:45
+   </td>
+   <td>12:45 - 12:55
+   </td>
+   <td>13:05 - 14:20
+   </td>
+   <td>14:20 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Weekly Recap
+   <td>Warm up
+   </td>
+   <td>Lecture
+   </td>
+   <td>Q&A
    </td>
    <td>Break
    </td>
-   <td>Weekly Retro
+   <td>Lecture
    </td>
-   <td>Project Presentations
+   <td>Q&A
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Q&A
+   </td>
+   <td>Lunch Break
+   </td>
+   <td>Lab Work
    </td>
   </tr>
 </table>
 
 
 **Table of Contents**
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 7</strong>
+<p>
+<strong>Week 7 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Feature Selection
+
+<li>PCA
+
+<li>KNN
+
+<li>Bias and Variance Tradeoff
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1DYegvKDjR4Sb_HB9kV6tZfdhXVaA26kX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
+   </td>
+   <td>Logistic Regression
+   </td>
+   <td>Hypothesis Testing
+   </td>
+   <td>Decision Trees
+   </td>
+   <td>[Presentation] Weekly Recap
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/13CFNIVlOPvGITtuXK2fSFEfZrosvTNny/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/13CFNIVlOPvGITtuXK2fSFEfZrosvTNny/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">PCA</a>
+   </td>
+   <td>Handling Imbalanced Data sets
+   </td>
+   <td>[Lab] Hypothesis Testing 
+   </td>
+   <td>Evaluating Classification Models
+   </td>
+   <td>[Weekly Retro]
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1uge3rEBVBkrLv-EBaMBYGaT9j2BRkDhF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1uge3rEBVBkrLv-EBaMBYGaT9j2BRkDhF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">KNN</a>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td>
+   </td>
+   <td>Cross Validation
+   </td>
+   <td>Ensemble Methods
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1Kg7TFIZbxytn9DPjWBD08NcA22jTUj2O/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Ensemble Methods
+   </td>
+   <td>Hackathon* / Kahoot*
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Code_Along_Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
+<p>
+ 
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>[Lab] Desision_trees 
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_PCA_Example.ipynb">[LAB] PCA</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
 
 
 <table>
