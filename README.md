@@ -1,42 +1,30 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 1**
+**Day 2**
 
 
 <table>
   <tr>
-   <td>9:00 - 9:20
+   <td>10:00 - 10:15
    </td>
-   <td>9:20 - 10:00
-   </td>
-   <td>10:00 - 10:10
-   </td>
-   <td>10:10-10:20
-   </td>
-   <td>10:20 - 11:20
+   <td>10:15-11:20
    </td>
    <td>11:20 -11:30
    </td>
    <td>11:30 - 11:45
    </td>
-   <td>11:45 - 12:45
+   <td>11:45 - 12:40
    </td>
-   <td>12:45 - 12:55
+   <td>12:40 - 12:50
    </td>
-   <td>13:05 - 14:20
+   <td>12:50 - 14:10
    </td>
-   <td>14:20 - 18:00
+   <td>14:10 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm up
-   </td>
-   <td>Lecture
-   </td>
    <td>Q&A
-   </td>
-   <td>Break
    </td>
    <td>Lecture
    </td>
@@ -63,6 +51,14 @@
   <tr>
    <td colspan="5" ><strong>Week 7</strong>
 <p>
+<strong>Week 7 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Logistic Regression
+
+<li>Handling Imbalanced Data Sets.
+
+<p>
 <strong>Week 7 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -73,6 +69,8 @@
 <li>KNN
 
 <li>Bias and Variance Tradeoff
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -92,7 +90,9 @@
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1DYegvKDjR4Sb_HB9kV6tZfdhXVaA26kX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
    </td>
-   <td>Logistic Regression
+   <td><a href="https://docs.google.com/presentation/d/1Rh-UuSwJiuBBX3pD2n1UnuGbeUfHSCl-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Rh-UuSwJiuBBX3pD2n1UnuGbeUfHSCl-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Logistic Regression</a>
    </td>
    <td>Hypothesis Testing
    </td>
@@ -106,7 +106,7 @@
 <p>
 <a href="https://docs.google.com/presentation/d/13CFNIVlOPvGITtuXK2fSFEfZrosvTNny/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">PCA</a>
    </td>
-   <td>Handling Imbalanced Data sets
+   <td>[Notebook] Logistic Regression
    </td>
    <td>[Lab] Hypothesis Testing 
    </td>
@@ -120,7 +120,7 @@
 <p>
 <a href="https://docs.google.com/presentation/d/1uge3rEBVBkrLv-EBaMBYGaT9j2BRkDhF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">KNN</a>
    </td>
-   <td>[LAB] Logistic Regression, Imbalance Sets
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
    </td>
    <td>
    </td>
@@ -132,7 +132,7 @@
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1Kg7TFIZbxytn9DPjWBD08NcA22jTUj2O/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
    </td>
-   <td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression, Imbalance Sets</a>
    </td>
    <td>
    </td>
