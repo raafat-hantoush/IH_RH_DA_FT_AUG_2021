@@ -11,5 +11,5 @@
    - Write down all the steps followed for setting up the test.
    - Calculate the test statistic by hand and also code it in Python. It should be 4.76190. What decision can you make based on this calculated value?
 
-
-
+2.We will have another simple example on two sample t test. But this time this is a one sided t-test
+In a packing plant, a machine packs cartons with jars. It is supposed that a new machine will pack faster on the average than the machine currently used. To test that hypothesis, the times it takes each machine to pack ten cartons are recorded. The results, in seconds, are shown in the tables in the file Data/machine.txt. Assume that there is sufficient evidence to conduct the t test, does the data provide sufficient evidence to show if one machine is better than the other
