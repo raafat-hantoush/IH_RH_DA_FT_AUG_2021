@@ -1,32 +1,26 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 4**
+**Day 5**
 
 
 <table>
   <tr>
    <td>9:00 -
 <p>
-09:20
+09:30
    </td>
-   <td>09:20 - 09:45
+   <td>09:30 - 10:15
    </td>
-   <td>09:45 -
+   <td>10:15 -
 <p>
-10:15
+10:25
    </td>
-   <td>10:15 - 10:20
+   <td>10:25 - 11:40
    </td>
-   <td>10:20 - 10:30
+   <td>11:40 - 11:50
    </td>
-   <td>10:30 - 11:40
-   </td>
-   <td>11:40 -11:50
-   </td>
-   <td>11:50 - 12:00
-   </td>
-   <td>12:00 - 13:00
+   <td>11:50 - 13:00
    </td>
    <td>13:00 - 14:15
    </td>
@@ -34,27 +28,21 @@
    </td>
   </tr>
   <tr>
-   <td>Warm Up
-   </td>
-   <td>Review/ Q&A
+   <td>Q&A
    </td>
    <td>Lecture
-   </td>
-   <td>Q&A
    </td>
    <td>Break
    </td>
-   <td>Lecture
-   </td>
-   <td>Q&A
+   <td>Lecture + 10 min Q&A
    </td>
    <td>Break
    </td>
-   <td>Lecture
+   <td>Lecture + 10 min Q&A
    </td>
    <td>Lunch Break
    </td>
-   <td>Lab Work
+   <td>Having Fun
    </td>
   </tr>
 </table>
@@ -67,14 +55,20 @@
   <tr>
    <td colspan="5" ><strong>Week 7</strong>
 <p>
+<strong>Week 7 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Cross Validation.
+
+<li>Extended Recap.
+
+<p>
 <strong>Week 7 | Day 4 `s Learning Objectives:</strong>
 <ul>
 
 <li>Feature selection using p-value
 
 <li>Two-Sample Test
-
-<li>Chi Squared Test*
 
 <li>Decision Trees
 
@@ -117,6 +111,8 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -146,7 +142,7 @@
 <p>
 <a href="https://docs.google.com/presentation/d/1ejhcpqiqlQzZ9xi6kBZL_Vsu3Doc9N0N/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Chi</a>
    </td>
-   <td>[Presentation] Weekly Recap
+   <td><a href="https://docs.google.com/presentation/d/1-evWQfJSFxLBJkiogq_Ps1D91C5xMMLL/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
    </td>
   </tr>
   <tr>
@@ -154,11 +150,15 @@
 <p>
 <a href="https://docs.google.com/presentation/d/13CFNIVlOPvGITtuXK2fSFEfZrosvTNny/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">PCA</a>
    </td>
-   <td>[Notebook] Logistic Regression
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
    </td>
-   <td>[Notebook] Hypothesis One Sample Test
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1oM4CwcRQLtIDiQ8VpvCTNFqMg9w3WSYC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1OIWqTavIQ-KOOWDgcEo7lcNTkxVxYUuq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
    </td>
    <td>[Weekly Retro]
    </td>
@@ -172,21 +172,27 @@
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing </a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1OIWqTavIQ-KOOWDgcEo7lcNTkxVxYUuq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples.ipynb">[Notebook] Hypothesis Two Sample Test</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook]</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Feature_Selection_P-Value.ipynb">Feature Selection using P-Value</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Decision Trees</a>
    </td>
-   <td>Ensemble Methods
+   <td>
    </td>
   </tr>
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1Kg7TFIZbxytn9DPjWBD08NcA22jTUj2O/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression, Imbalance Sets</a>
    </td>
    <td>
    </td>
-   <td>[Lab] Desision_trees 
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a> 
    </td>
-   <td>Hackathon*
+   <td>
    </td>
   </tr>
   <tr>
@@ -198,7 +204,7 @@
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression, Imbalance Sets</a>
+   <td>
    </td>
    <td>
    </td>
