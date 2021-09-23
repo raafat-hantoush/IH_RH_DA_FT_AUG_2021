@@ -80,8 +80,7 @@
 
 <li>Hypothesis Testing
 
-<li>
-  lue, Confidence level, Significance level
+<li>P-Value, Confidence level, Significance level
 
 <li>One-Sample Z-Test, T-Test
 
@@ -175,8 +174,7 @@
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples.ipynb">[Notebook] Hypothesis Two Sample Test</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook]</a>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Feature_Selection_P-Value.ipynb">Feature Selection using P-Value</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Decision Trees</a>
    </td>
@@ -1165,3 +1163,4 @@
    </td>
   </tr>
 </table>
+
