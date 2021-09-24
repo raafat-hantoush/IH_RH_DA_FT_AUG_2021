@@ -12,3 +12,4 @@
 + https://machinelearningmastery.com/clustering-algorithms-with-python/
 + https://blog.floydhub.com/introduction-to-k-means-clustering-in-python-with-scikit-learn/
 + https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
++ https://www.jeremyjordan.me/hyperparameter-tuning/
