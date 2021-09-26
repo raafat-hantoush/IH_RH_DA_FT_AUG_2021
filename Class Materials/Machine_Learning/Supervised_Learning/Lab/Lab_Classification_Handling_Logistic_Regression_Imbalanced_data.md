@@ -21,7 +21,8 @@ Here is the list of steps to be followed (building a simple model without balanc
   - Scale the features either by using normalizer or a standard scaler.
   - Split the data into a training set and a test set.
   - Fit a logistic Regression model on the training data.
-  
+ 
+ Round 2
   - Fit a Decision Tree Classifier on the training data.
   - Check the accuracy on the test data.
   - Bonus:  apply K-fold cross validation on y ourt classifier.
