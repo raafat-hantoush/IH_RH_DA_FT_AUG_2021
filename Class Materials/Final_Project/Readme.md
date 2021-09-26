@@ -1,6 +1,5 @@
 # Final Project Kickoff
 
-## Scope
 
 ### Purpose
 The aim of the final Project is to present the learners with a final opportunity to put their newly acquired skills into practice.
