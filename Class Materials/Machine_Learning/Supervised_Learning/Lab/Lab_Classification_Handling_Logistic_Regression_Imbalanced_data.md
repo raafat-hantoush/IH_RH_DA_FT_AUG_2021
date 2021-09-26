@@ -25,7 +25,7 @@ Here is the list of steps to be followed (building a simple model without balanc
  Round 2
   - Fit a Decision Tree Classifier on the training data.
   - Check the accuracy on the test data.
-  - Bonus:  apply K-fold cross validation on y ourt classifier.
+  - Bonus:  apply K-fold cross validation on your classifier.
 **Note**: So far we have not balanced the data.
 
 Managing imbalance in the dataset
