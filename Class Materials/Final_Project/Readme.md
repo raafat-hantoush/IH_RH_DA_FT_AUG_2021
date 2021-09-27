@@ -69,7 +69,7 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 
 + Source, Analize and identify one dataset to work with
 + Present your business problem to the teaching staff. 
-   + "Elevator Pitch" Challenge - 1 minute presentation of the idea*
+   + "Elevator Pitch" Challenge - 2 minute presentation of the idea*
 + Plan and organize your project roadmap
 + Workflow
 + Presentation 
