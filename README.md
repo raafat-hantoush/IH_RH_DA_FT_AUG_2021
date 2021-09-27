@@ -1,26 +1,28 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 5**
+**Day 1**
 
 
 <table>
   <tr>
    <td>9:00 -
 <p>
-09:30
+09:15
    </td>
-   <td>09:30 - 10:15
+   <td>09:15 - 09:50
    </td>
-   <td>10:15 -
+   <td>09:50 -
 <p>
-10:25
+10:15
    </td>
-   <td>10:25 - 11:40
+   <td>10:15 - 10:25
    </td>
-   <td>11:40 - 11:50
+   <td>10:25 - 11:50
    </td>
-   <td>11:50 - 13:00
+   <td>11:50 - 12:00
+   </td>
+   <td>12:00 - 12:50
    </td>
    <td>13:00 - 14:15
    </td>
@@ -28,7 +30,11 @@
    </td>
   </tr>
   <tr>
-   <td>Q&A
+   <td>Warm up
+   </td>
+   <td>Final Project Kick off,
+<p>
+Q&A
    </td>
    <td>Lecture
    </td>
@@ -38,17 +44,125 @@
    </td>
    <td>Break
    </td>
-   <td>Lecture + 10 min Q&A
+   <td>Weekly Retro
    </td>
    <td>Lunch Break
    </td>
-   <td>Having Fun
+   <td>Lab work + Final Project 
    </td>
   </tr>
 </table>
 
 
 **Table of Contents**
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 8</strong>
+<p>
+<strong>Week 8 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Ensemble Methods.
+
+<li>Project Intro.
+
+<li>ML frequent Problems
+
+<li>No Free Lunch Theorem
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1bByG4_lr9uq1MquCWhwJ9e9YU8L09DIH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1S_zSIdwguwJcVmH4mYriCMz05tTpAEWX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]Agile/ Project Management</a>
+   </td>
+   <td>Final Project
+   </td>
+   <td>Final Project
+   </td>
+   <td>Final Project
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1-QRrBmMzMZTxEvl_A1Lpc4iZyp7UVY5p/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+<p>
+No Free Lunch Theorem
+   </td>
+   <td>Natural Language Processing
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest</a>
+   </td>
+   <td>Final Project Elevator Pitches
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Final_Project#readme">Final Project Kick off</a>
+   </td>
+   <td>Azure* / AWS*
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Object Oriented Programming*
+   </td>
+   <td>Neural Network Overview*
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Weekly Retro
+   </td>
+   <td>Final Project Plan Submission
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
 
 
 <table>
