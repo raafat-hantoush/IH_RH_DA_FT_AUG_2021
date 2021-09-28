@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**Day 1**
+**Day 2**
 
 
 <table>
@@ -22,17 +22,23 @@
    </td>
    <td>11:50 - 12:00
    </td>
-   <td>12:00 - 12:50
+   <td>12:00 - 12:25
    </td>
    <td>13:00 - 14:15
    </td>
    <td>14:15 - 18:00
    </td>
+   <td>15:30 - 16:00
+   </td>
+   <td>16:00 -17:00
+<p>
+Azure
+   </td>
   </tr>
   <tr>
    <td>Warm up
    </td>
-   <td>Final Project Kick off,
+   <td>Final Project
 <p>
 Q&A
    </td>
@@ -44,11 +50,15 @@ Q&A
    </td>
    <td>Break
    </td>
-   <td>Weekly Retro
+   <td>Lecture
    </td>
    <td>Lunch Break
    </td>
-   <td>Lab work + Final Project 
+   <td>Final Project 
+   </td>
+   <td>Elevator Pitches
+   </td>
+   <td>
    </td>
   </tr>
 </table>
@@ -61,6 +71,20 @@ Q&A
   <tr>
    <td colspan="5" ><strong>Week 8</strong>
 <p>
+<strong>Week 8 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>NLP
+
+<li>Agile, MVP
+
+<li>Final Project Ideas review
+
+<li>Neural Network *
+
+<li>Azure*
+
+<p>
 <strong>Week 8 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -71,6 +95,8 @@ Q&A
 <li>ML frequent Problems
 
 <li>No Free Lunch Theorem
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -90,7 +116,7 @@ Q&A
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1bByG4_lr9uq1MquCWhwJ9e9YU8L09DIH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1S_zSIdwguwJcVmH4mYriCMz05tTpAEWX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]Agile/ Project Management</a>
+   <td><a href="https://docs.google.com/presentation/d/1S_zSIdwguwJcVmH4mYriCMz05tTpAEWX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
    </td>
    <td>Final Project
    </td>
@@ -104,7 +130,7 @@ Q&A
 <p>
 No Free Lunch Theorem
    </td>
-   <td>Natural Language Processing
+   <td><a href="https://docs.google.com/presentation/d/1Ycih-i2FOC2P00Oeq6-WdHp1PAdDxKrw/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Natural Language Processing</a>
    </td>
    <td>
    </td>
@@ -116,7 +142,7 @@ No Free Lunch Theorem
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest</a>
    </td>
-   <td>Final Project Elevator Pitches
+   <td>Azure* / <a href="https://docs.google.com/presentation/d/1YUgIAWpdcH7K9MEpCEPDG8vlspb6WPVx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">AWS*</a>
    </td>
    <td>
    </td>
@@ -128,7 +154,7 @@ No Free Lunch Theorem
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Final_Project#readme">Final Project Kick off</a>
    </td>
-   <td>Azure* / AWS*
+   <td><a href="https://docs.google.com/presentation/d/1lf4Y5n495X_QXtbuK1lOJQyjBBaVPSjh/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Neural Network Overview*</a>
    </td>
    <td>
    </td>
@@ -140,7 +166,7 @@ No Free Lunch Theorem
   <tr>
    <td>Object Oriented Programming*
    </td>
-   <td>Neural Network Overview*
+   <td>Final Project Elevator Pitches
    </td>
    <td>
    </td>
@@ -150,9 +176,9 @@ No Free Lunch Theorem
    </td>
   </tr>
   <tr>
-   <td>Weekly Retro
+   <td>
    </td>
-   <td>Final Project Plan Submission
+   <td>
    </td>
    <td>
    </td>
