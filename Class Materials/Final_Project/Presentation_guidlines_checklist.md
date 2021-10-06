@@ -17,9 +17,7 @@ Here I list  some important guidelines of your presentation that you can use as 
 
 1. state the question / business problem:  simply and clearly, one-sentence take away
 
-2. state the user persona and the dream solution for her/him: who is going to benefit from your insights (Marketing Manager? Doctor? Investor? normal user (music listener?),
-
-           What does she/he expect?
+2. state the user persona and the dream solution for her/him: who is going to benefit from your insights (Marketing Manager? Doctor? Investor? normal user (music listener?),What does she/he expect?
 
 3. the type of the question / business problem ( descriptive, predictive, BI Dashboard, Hypothesis testing)
 
