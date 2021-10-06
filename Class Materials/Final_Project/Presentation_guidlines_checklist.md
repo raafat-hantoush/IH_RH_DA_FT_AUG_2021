@@ -13,7 +13,7 @@ Here I list  some important guidelines of your presentation that you can use as 
 * The presentation is there to support you in telling your data story and not to limit you.
 * A presentation that creates a contradiction.
 
-**The presentation's proposed structure (checklist) **
+**The proposed structure (checklist)**
 
        1. state the question / business problem:  simply and clearly, one-sentence take away
 
